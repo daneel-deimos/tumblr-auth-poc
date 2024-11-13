@@ -29,8 +29,8 @@ This proof of concept demonstrates how to authenticate users with Tumblr using O
 1. **Clone the Repository**
     
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone git@github.com:daneel-deimos/tumblr-auth-poc.git
+cd tumblr-auth-poc
 ```
     
 2. **Install Dependencies**
